@@ -1,7 +1,7 @@
 
 # Analysis of the speeches given by the President of Colombia, Juan M. Santos, from August 2010 to March 2016
 
-[Santiago Matallana](http://www.santiagomatallana.com)
+[Santiago Matallana](http://www.santiagomatallana.com) - [About me](https://github.com/smatallana/resume_docs/blob/master/Santiago%20Matallana%20-%20Resume.pdf)
 
 15-Mar-2016
 
